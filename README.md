@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harindu Erandaka</h1>
-<h3 align="center">Game Developer</h3>
+<h3 align="center">I'm intersting about AI & ML, Game Development and Cyber Security</h3>
 
-- 🌱 I’m currently learning **BICT HONOURS INFORMATION AND COMMUNICATION TECHNOLOGY**
+- 🌱 I’m currently learning **BACHELOR OF INFORMATION AND COMMUNICATION TECHNOLOGY HONOURS DEGREE IN UNIVERSITY OF VAVUNIYA, SRI LANKA.**
 
 - 📫 How to reach me **harinduerandaka1@gmail.com**
 

@@ -1,56 +1,81 @@
-# Hi there 👋, I'm Harindu
+<h1 align="center">Hi 👋, I'm Harindu</h1>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=ICT+Undergraduate;Learning+AI+%26+Machine+Learning;Game+Development+Enthusiast;Cyber+Security+Learner;Future+Software+Engineer🚀)](https://git.io/typing-svg)
-
----
-
-🎓 ICT Undergraduate (Still Learning & Growing)  
-💡 Interested in AI & Machine Learning, Game Development & Cyber Security  
-🚀 Passionate about technology and building real-world projects  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=ICT+Undergraduate;AI+%26+ML+Enthusiast;Game+Developer;Cyber+Security+Learner;Future+Tech+Innovator🚀" />
+</p>
 
 ---
 
-## 🧠 About Me
-- 🌱 Currently learning ICT concepts and programming  
-- 🤖 Exploring Artificial Intelligence & Machine Learning  
-- 🎮 Interested in Game Development  
-- 🔐 Learning Cyber Security fundamentals  
-- 💻 Love building systems and solving problems  
+## 🌌 About Me
+
+<div align="center">
+  
+💻 ICT Undergraduate (Still Learning & Growing)  
+🤖 Exploring AI & Machine Learning  
+🎮 Interested in Game Development  
+🔐 Learning Cyber Security  
+🚀 Passionate about building real-world projects  
+
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
-- 💻 Programming: Java, C, Python (learning)
-- 🌐 Web: HTML, CSS (basic)
-- 🗄️ Database: MySQL
-- ⚙️ Tools: Git, GitHub, VS Code  
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00F7FF)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F7FF)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00F7FF)
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=00F7FF)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=00F7FF)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00F7FF)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00F7FF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF)
+
+</div>
 
 ---
 
-## 📂 My Projects
-- 🏋️ Fitness Management System  
-- 🏥 Hospital Management System  
-- 🏠 Smart House System  
-- 🚗 Vehicle Management System  
+## 📂 Projects
+
+<div align="center">
+
+🏋️ Fitness Management System  
+🏥 Hospital Management System  
+🏠 Smart House System  
+🚗 Vehicle Management System  
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
-GitHub stats([https://github-readme-stats.vercel.app/api?username=h1010rii08&show_icons=true&theme=tokyonight](https://github.com/h1010rii08))
+## 📊 GitHub Stats (Glass Style)
 
----
+<div align="center">
 
-## 🔥 Most Used Languages
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: harinduerandaka1@gmail.com
-- LinkIdn: https://www.linkedin.com/in/harindu-erandaka-218981369/
+
+<div align="center">
+
+📧 your-email@example.com  
+
+</div>
 
 ---
 
 ## ✨ Quote
-"Keep learning, keep building, and never give up 🚀"
+
+<div align="center">
+
+_"Code. Learn. Build. Repeat."_ 🚀
+
+</div>

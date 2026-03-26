@@ -1,16 +1,55 @@
-<h1 align="center">Hi 👋, I'm Harindu Erandaka</h1>
-<h3 align="center">I'm intersting about AI & ML, Game Development and Cyber Security</h3>
+# Hi there 👋, I'm Harindu
 
-- 🌱 I’m currently learning **BACHELOR OF INFORMATION AND COMMUNICATION TECHNOLOGY HONOURS DEGREE IN UNIVERSITY OF VAVUNIYA, SRI LANKA.**
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=ICT+Undergraduate;Learning+AI+%26+Machine+Learning;Game+Development+Enthusiast;Cyber+Security+Learner;Future+Software+Engineer🚀)](https://git.io/typing-svg)
 
-- 📫 How to reach me **harinduerandaka1@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🎓 ICT Undergraduate (Still Learning & Growing)  
+💡 Interested in AI & Machine Learning, Game Development & Cyber Security  
+🚀 Passionate about technology and building real-world projects  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/harinduerandaka"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harinduerandaka" /></a></p><br><br>
+## 🧠 About Me
+- 🌱 Currently learning ICT concepts and programming  
+- 🤖 Exploring Artificial Intelligence & Machine Learning  
+- 🎮 Interested in Game Development  
+- 🔐 Learning Cyber Security fundamentals  
+- 💻 Love building systems and solving problems  
+
+---
+
+## 🛠️ Technologies & Tools
+- 💻 Programming: Java, C, Python (learning)
+- 🌐 Web: HTML, CSS (basic)
+- 🗄️ Database: MySQL
+- ⚙️ Tools: Git, GitHub, VS Code  
+
+---
+
+## 📂 My Projects
+- 🏋️ Fitness Management System  
+- 🏥 Hospital Management System  
+- 🏠 Smart House System  
+- 🚗 Vehicle Management System  
+
+---
+
+## 📈 GitHub Stats
+![Harindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=h1010rii08&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: harinduerandaka1@gmail.com 
+
+---
+
+## ✨ Quote
+"Keep learning, keep building, and never give up 🚀"
